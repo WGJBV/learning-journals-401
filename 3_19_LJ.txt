@@ -1,0 +1,7 @@
+#Daily Learning Journal 3/19/2018
+
+Today we started off on a sprint to understand most of the basic data types and concepts of Python. I had to learn a whole lot
+about how Python scales and most importantly how to manipulate dictionaries. They are an incredibly interesting data type, very 
+similar to Java's objects apparently, but still can be manipulated differently. My team sifted through many different modules that we could
+use to fulfill what we needed out of the dictionary. We definitely took the hard way out today and I think that payed off immensely, while 
+we didn't completely finish, I think we're miles ahead of everyone else considering our skeleton for our project is stellar.

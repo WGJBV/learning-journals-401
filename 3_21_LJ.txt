@@ -1,0 +1,5 @@
+#Learning Journal 3/21
+
+Today I learned a lot more about how things are targetted and how to manipulate text in Python. It was very satisfying to be able to
+manipulate text with the {:<7} options, I forgot what they were called. We also learned all about f'{variable}f' that we used for various
+things. We learned a lot about how to translate between the two forms of .format().

@@ -1,0 +1,4 @@
+# Learning Journal 3/26
+
+Today was a lot better for me. I learned a lot about how to use Jupyter and data structures. I love the subject material and I'm looking
+forward to learning a lot more about these structures. 

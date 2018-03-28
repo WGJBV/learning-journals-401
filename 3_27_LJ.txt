@@ -1,0 +1,4 @@
+#Learning Journal 3/27
+
+Today, I learned about how to manipulate and parse through a large data structure like an IMDB list. It was a lot of fun playing around
+with the information I could uncover and much more fun learning the keywords to do it.
